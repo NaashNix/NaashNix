@@ -45,3 +45,6 @@ I’m looking for challenging problems to solve. My background is in enterprise 
 ![image](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ 
+[![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix)](https://github.com/anuraghazra/github-readme-stats)
+
