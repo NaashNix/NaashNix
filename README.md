@@ -2,7 +2,8 @@
 <font style="font-family: Helvetica, sans-serif;">
 
 # **Hey! I'm Ravindu Thilakshana** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=naashnix.naashnix) <img src="./assets/sl-flag.gif" width="35px">
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=naashnix.naashnix) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40naashnix)](https://twitter.com/naashnix)
+ <img src="./assets/sl-flag.gif" width="35px">
 
 </font>
 
