@@ -34,7 +34,75 @@
  [![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 39 Contributions in the Year 2021
+ > 
+> 📦 62.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
+🌆 Daytime    21 commits     ██████████████░░░░░░░░░░░   56.76% 
+🌃 Evening    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+🌙 Night      5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.51%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+Wednesday    5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Thursday     20 commits     █████████████░░░░░░░░░░░░   54.05% 
+Friday       8 commits      █████░░░░░░░░░░░░░░░░░░░░   21.62% 
+Saturday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     5 repos             █████████████████░░░░░░░░   71.43% 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/NaashNix/NaashNix/master/charts/bar_graph.png) 
+
+
+ Last Updated on 25/11/2021
 <!--END_SECTION:waka-->
