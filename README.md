@@ -1,4 +1,4 @@
-<center><img src="./assets/logo.gif" width="500px" /></center>
+<pre><center><img src="./assets/logo.gif" width="500px" /></center></pre>
 
 
 <font style="font-family: Helvetica, sans-serif;">
