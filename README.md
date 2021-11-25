@@ -34,7 +34,7 @@
  [![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
 **🐱 My GitHub Data** 
 
