@@ -1,7 +1,8 @@
 <img src="./assets/logo.gif" width="500px" align="right" />
 <font style="font-family: Helvetica, sans-serif;">
 
-# **Hey! I'm Ravindu Thilakshana** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=naashnix.naashnix) <img src="./assets/sl-flag.gif" width="35px">
+# **Hey! I'm Ravindu Thilakshana** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=naashnix.naashnix) <img src="./assets/sl-flag.gif" width="35px">
 
 </font>
 
