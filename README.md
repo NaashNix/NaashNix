@@ -77,16 +77,20 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 58 mins       ████████████████████████░   98.74% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  2 hrs 58 mins       ████████████████████████░   98.74% 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+github                   2 hrs 51 mins       ███████████████████████░░   95.21% 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -104,5 +108,5 @@ HTML                     2 repos             ███████░░░░�
 ![Chart not found](https://raw.githubusercontent.com/NaashNix/NaashNix/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
