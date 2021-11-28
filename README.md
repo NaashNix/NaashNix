@@ -31,8 +31,10 @@
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
  ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
  
+ <a href="https://app.daily.dev/Ravind"><img src="https://api.daily.dev/devcards/1a3b4fbeb6654feeb29bf0e0bfeb61ad.png?r=8jt" width="300" alt="Ravindu Thilakshana's Dev Card" align="right"/></a>
+ 
  [![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
 
