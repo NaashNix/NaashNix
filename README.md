@@ -33,6 +33,7 @@
  
  <a href="https://app.daily.dev/Ravind"><img src="https://api.daily.dev/devcards/1a3b4fbeb6654feeb29bf0e0bfeb61ad.png?r=8jt" width="300" alt="Ravindu Thilakshana's Dev Card" align="right"/></a>
  
+ 
  [![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 <!--START_SECTION:waka-->
