@@ -1,4 +1,4 @@
-<img src="./assets/logo.gif" width="500px" align="right" />
+<img src="./assets/logo.gif" width="100px" align="right" />
 <font style="font-family: Helvetica, sans-serif;">
 
 # **Hey! I'm Ravindu Thilakshana** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
