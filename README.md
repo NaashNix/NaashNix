@@ -26,24 +26,16 @@
 
 ## ***Languages And Tools***
 
-<div style="display:flex; align-items: center; justify-content: center;">
+<div style="display:flex; align-items: flex-start; flex-wrap:wrap; justify-content: flex-start;">
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
  ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![image](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![image](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
  
  <a href="https://app.daily.dev/Ravind"><img src="https://api.daily.dev/devcards/1a3b4fbeb6654feeb29bf0e0bfeb61ad.png?r=8jt" width="300" alt="Ravindu Thilakshana's Dev Card" align="right"/></a>
+
+
+#### I'm full-stack developer, a undergraduate and a President Scout. I'm mainly focusing on ReactJS, Spring-boot, Java. Having 2 years of experience in IT industry made me quick learner and adapts to new technologies within a short period of time. I have an insatiable curiosity for AI – particularly deep learning – applications and their potential to change the technology.
  
  
  [![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-
-** Most Favourite Languages** 
-
-```text
-Java              7 repos             ██████████████░░░░░░░░░░░   58.33% 
-CSS               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-SCSS              1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-JavaScript        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
