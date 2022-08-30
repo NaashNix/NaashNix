@@ -37,7 +37,7 @@
  [![Naashnix's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaashNix&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
 
-**I Mostly Code in Java** 
+** Most Favourite Languages ** 
 
 ```text
 Java              7 repos             ██████████████░░░░░░░░░░░   58.33% 
