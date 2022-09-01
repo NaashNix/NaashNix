@@ -20,7 +20,7 @@
 
  
  - 🔭 I’m currently learning **Web Technologies**     
- - 💬 Ask me about **Java, JavaFX** 
+ - 💬 Ask me about **Core-Java, Spring-Boot, ReactJS, ExpressJS** 
 
 </section>
 
